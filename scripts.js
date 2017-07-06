@@ -43,7 +43,7 @@ console.log("Programme start");
   *********************/
 
   alert ("Let's guess your artistic identity, shall we? :)");
-  alert ("In order to get the most accurate result possible, I need you to think quite a bit to give a short and meaningful answer. If you're all set, here we go!");
+  alert ("In order to get the most accurate result possible, I need you to think quite a bit. If you're all set, here we go!");
 
   // "<h2> [favArtist1] meets [favArtist2] with a healthy dose of [uniqueThing] LOL.</h2>"
 
